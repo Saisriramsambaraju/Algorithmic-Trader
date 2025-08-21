@@ -21,17 +21,6 @@ Algorithmic-Trader is a project designed to automate trading strategies using al
 
    Modify or add your trading logic in the appropriate module.
 
-## Project Structure
-
-- `src/` - Main source code and modules.
-- `tests/` - Unit and integration tests.
-- `data/` - Example or sample data for testing/backtesting.
-- `README.md` - Project documentation.
-
-## Contributing
-
-Contributions are welcome! Please open issues or submit pull requests for improvements or new features.
-
 ### Contributors
 
 - **Sai Sriram Sambaraju**
