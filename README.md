@@ -17,23 +17,9 @@ Algorithmic-Trader is a project designed to automate trading strategies using al
    git clone https://github.com/Saisriramsambaraju/Algorithmic-Trader.git
    ```
 
-2. **Install dependencies:**
-
-   Navigate to the project directory and install required dependencies (see `requirements.txt`):
-
-   ```bash
-   pip install -r requirements.txt
-   ```
-
-3. **Configure your strategy:**
+2. **Configure your strategy:**
 
    Modify or add your trading logic in the appropriate module.
-
-4. **Run the trader:**
-
-   ```bash
-   python main.py
-   ```
 
 ## Project Structure
 
